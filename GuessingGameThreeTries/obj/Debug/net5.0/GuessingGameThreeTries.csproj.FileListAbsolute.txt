@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.genruntimeconfig.cache

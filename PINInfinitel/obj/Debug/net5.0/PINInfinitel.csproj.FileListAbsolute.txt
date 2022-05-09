@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\bin\Debug\net5.0\PINInfinitel.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\bin\Debug\net5.0\PINInfinitel.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\bin\Debug\net5.0\PINInfinitel.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\bin\Debug\net5.0\PINInfinitel.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\bin\Debug\net5.0\PINInfinitel.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\bin\Debug\net5.0\ref\PINInfinitel.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\bin\Debug\net5.0\PINInfinitel.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\obj\Debug\net5.0\PINInfinitel.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\obj\Debug\net5.0\PINInfinitel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\obj\Debug\net5.0\PINInfinitel.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\obj\Debug\net5.0\PINInfinitel.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\obj\Debug\net5.0\PINInfinitel.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\obj\Debug\net5.0\PINInfinitel.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\obj\Debug\net5.0\ref\PINInfinitel.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\obj\Debug\net5.0\PINInfinitel.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\LoopsAndRandomNumbers\PINInfinitel\obj\Debug\net5.0\PINInfinitel.genruntimeconfig.cache
